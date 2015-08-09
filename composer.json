@@ -1,0 +1,21 @@
+{
+    "name": "linil/linil-yii2",
+    "description": "linil's Library of Yii2 Extensions",
+    "type": "library",
+    "keywords": ["yii2","library","extension","linil","linilyii2"],
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "Barilee Apenu",
+            "email": "barileeapenu@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "linil\\linilYii2\\": ""
+        }
+    }
+}
